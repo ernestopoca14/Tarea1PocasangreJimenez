@@ -2,6 +2,7 @@
 # Luis Jimenez
 # Tarea 1
 # Pruebas
+# ERR4 -10
 import random  # Se importa la libreria random
 import math  # Se importa la libreria math
 from Metodos import multiple_op  # Se importa función de Metodos
